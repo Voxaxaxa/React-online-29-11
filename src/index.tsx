@@ -26,5 +26,6 @@ const content = (
   </div>
 )
 
+
 const root = ReactDOM.createRoot(document.getElementById('root') as HTMLElement)
 root.render(<React.StrictMode>{content}</React.StrictMode>)
