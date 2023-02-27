@@ -1,3 +1,14 @@
-export const Title = () => {
-    return <h1>Hello Title component</h1>
+interface TitleProps {
+    title: string
+    nums: number
 }
+
+const Title = (props: TitleProps) => {
+    return (
+        <h1>
+            Hello {props.title} Year:{props.nums}
+        </h1>
+    )
+}
+
+export default Title
