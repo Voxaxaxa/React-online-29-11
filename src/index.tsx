@@ -8,7 +8,7 @@ const App = () => {
         <>
             <Title title="React" nums={2022} />
             <Title title="Add" nums={2023} />
-            <Content text1="Hello world text1" text2="Hello world text2" />
+            <Content text1="Hello world text1" />
         </>
     )
 }
