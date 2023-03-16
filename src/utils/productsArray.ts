@@ -13,35 +13,35 @@ const productsArray: Product[] = [
         type:"phone",
         capacity:"256",
         price:1500,
-    }
+    },
     {
         title: "iPhone 13 Pro",
         description:"This is iPhone 13 Pro",
         type:"phone",
         capacity:"128",
         price:1000,
-    }
+    },
     {
         title: "iPhone 12 Pro",
         description:"This is iPhone 12 Pro",
         type:"phone",
         capacity:"128",
         price:500,
-    }
+    },
     {
         title: "iPhone 14 Pro Max",
         description:"This is iPhone 14 Pro Max",
         type:"phone",
         capacity:"256",
         price:1000,
-    }
+    },
     {
         title: "iPhone 11 ",
         description:"This is iPhone 11 ",
         type:"phone",
         capacity:"64",
         price:500,
-    }
+    },
     {
         title: "iPhone X",
         description:"This is iPhone X",
