@@ -3,7 +3,7 @@ import productsArray from 'utils/productsArray'
 import ProductListItem from './ProductListItem'
 
 type Props = {
-    addProductToCart: (count: number, price: number) => void
+    addProductToCart: (id: number, count: number) => void
 }
 const ProductList = ({ addProductToCart }: Props) => {
     return (
